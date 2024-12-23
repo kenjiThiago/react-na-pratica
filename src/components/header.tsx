@@ -31,7 +31,7 @@ export function Header() {
 
                 <div className="flex items-center gap-2.5">
                     <img
-                        src="https://github.com/rocketseat.png"
+                        src=""
                         className="size-5 rounded-full"
                         alt=""
                     />
@@ -68,11 +68,11 @@ export function Header() {
 
             <div className="flex items-center gap-3">
                 <div className="flex flex-col items-end gap-0.5">
-                    <span className="text-sm font-medium">Diego Fernandes</span>
-                    <span className="text-xs text-zinc-400">diego@nivo.video</span>
+                    <span className="text-sm font-medium">Thiago Kenji</span>
+                    <span className="text-xs text-zinc-400">email</span>
                 </div>
                 <img
-                    src="https://github.com/diego3g.png"
+                    src=""
                     className="size-8 rounded-full"
                     alt=""
                 />

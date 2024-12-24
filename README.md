@@ -1,5 +1,7 @@
 # Projeto Frontend
 
+![Página Inicial](https://github.com/kenjiThiago/react-na-pratica/blob/main/imagens/paginaInicial.png)
+
 ## Tecnologias
 - Reactjs
 - Typescript

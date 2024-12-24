@@ -72,12 +72,10 @@ export function App() {
                         <h1 className="text-xl font-bold">Tags</h1>
                         <Dialog.Root>
                             <Dialog.Trigger asChild>
-                                <>
-                                    <Button variant="primary">
-                                        <Plus className="size-3" />
-                                        Create new
-                                    </Button>
-                                </>
+                                <Button variant="primary">
+                                    <Plus className="size-3" />
+                                    Create new
+                                </Button>
                             </Dialog.Trigger>
 
                             <Dialog.Portal>

@@ -20,13 +20,13 @@ Página frontend feita em Reactjs.
 $ npm install
 ```
 
-2. Faça o build do arquivos:
+2. Faça o build dos arquivos:
 
 ```sh
 $ npm run build
 ```
 
-3. Inicie o servidor json:
+3. Inicie o servidor server.json:
 
 ```sh
 $ npm run server

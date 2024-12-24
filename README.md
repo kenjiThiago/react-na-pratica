@@ -39,3 +39,8 @@ $ npm run preview
 ```
 
 5. Entre no localhost do servidor frontend.
+
+# Créditos
+
+Esse projeto foi desenvolvido com base no projeto react-na-pratica da plataforma de cursos da Rocketseat.
+[link original](https://github.com/rocketseat-education/react-na-pratica)
